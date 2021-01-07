@@ -8,5 +8,3 @@ spring:
       server:
         git:
           uri: https://github.com/iuyy2019/springcf.git
-          username: root
-          password: root
