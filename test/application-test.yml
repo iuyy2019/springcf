@@ -8,5 +8,5 @@ spring:
       server:
         git:
           uri: https://github.com/iuyy2019/springcf.git
-          username: test
-          password: test
+          username: test1
+          password: test1
