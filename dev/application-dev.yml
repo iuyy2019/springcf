@@ -1,0 +1,12 @@
+server:
+  port: 8100
+spring:
+  application:
+    name: tulingvip05-ms-cfg-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/iuyy2019/springcf.git
+          username: dev
+          password: dev
